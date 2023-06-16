@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La salud pública es la disciplina enfocada en la protección de la población mediante estrategias de promoción y prevención de la enfermedad, por ello es necesario implementar y establecer condiciones de riesgo de acuerdo a normas técnicas buscando promocionar acciones de acuerdo con normatividad.
 
     .row.justify-content-center
       .col-lg-10.mb-5
