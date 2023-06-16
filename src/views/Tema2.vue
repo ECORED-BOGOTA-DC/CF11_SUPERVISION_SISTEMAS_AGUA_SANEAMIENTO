@@ -162,7 +162,121 @@
     
     p.mb-5 Son aquellas Instituciones Prestadoras de Salud (IPS), laboratorios clínicos y bancos de sangre u órganos, entre otros, que deben cumplir con funciones como:
 
+    .row.justify-content-center
+      .col-lg-4.d-flex
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.d-flex.align-items-center
+            img(src='@/assets/curso/temas/tema2/img-15.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
+          .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
+            .p-4
+              p.mb-0 Implementar todas las directrices del Ministerio de Salud
+      .col-lg-4.d-flex
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.d-flex.align-items-center
+            img(src='@/assets/curso/temas/tema2/img-16.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
+          .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
+            .p-4
+              p.mb-0 Informar y actualizar bases de datos de vigilancia
+      .col-lg-4.d-flex
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.d-flex.align-items-center
+            img(src='@/assets/curso/temas/tema2/img-17.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
+          .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
+            .p-4
+              p.mb-0 Analizar y utilizar la información de vigilancia para la toma de decisiones
+      .col-lg-4.d-flex
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.d-flex.align-items-center
+            img(src='@/assets/curso/temas/tema2/img-18.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
+          .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
+            .p-4
+              p.mb-0 Notificar cualquier evento sujeto de vigilancia
+      .col-lg-4.d-flex
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.d-flex.align-items-center
+            img(src='@/assets/curso/temas/tema2/img-19.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
+          .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
+            .p-4
+              p.mb-0 Participar en las estrategias de vigilancia especiales planteadas por la autoridad sanitaria, entre otras
+
+    .titulo-edit.mb-5
+      h3 Otras entidades
     
+    .cajon.color-acento-botones.p-4.mb-5.col-lg-8.mx-auto(style="background-color: #98D8D7")
+      p.mb-0(data-aos="fade-left") Aquellas entidades que antes de la entrada en vigor del presente decreto no participaban en los procesos de vigilancia, deberán integrarse funcionalmente al Sistema de Vigilancia en salud pública (Sivigila) y a la operación del mismo, en la medida en que sean diseñados e implementados modelos de vigilancia en los que puedan participar como proveedores de información de interés en salud pública (Decreto 3518, 2006,).
+
+    p.mb-5 Para ampliar la información acerca del funcionamiento del Sistema de Vigilancia en Salud Pública se recomienda consultar el Decreto 3518 de 2006:
+
+    .tarjeta.color-acento-botones.p-3
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img.mx-auto(src="@/assets/curso/temas/img-3.svg" style="max-width: 50px")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0(data-aos="fade-left")
+              h3.mb-1 Decreto 3518 de 2006
+              p.mb-0 Para ampliar la información puede consultar el siguiente documento
+            .col-sm-auto
+              a.boton.color-primario(:href="obtenerLink('downloads/Decreto-3518-de-2006.pdf')" target="_blank")
+                span.pe-3 Ir a página
+                i.fas.fa-file-download
+    Separador
+    .titulo-segundo.color-acento-botones
+      h2#t_2_3 2.3. Plan decenal de salud pública
+    
+    p.mb-5 Para poner en marcha las actividades del sistema de salud se desarrollan los planes decenales de salud pública, los cuales se proyectan cada 10 años, atendiendo las necesidades identificadas para el país. Actualmente está vigente el Plan Decenal correspondiente a los años 2012 - 2021, en el cual se priorizan las siguientes siete (7) dimensiones para atender las necesidades en Salud pública (Ministerio de Salud y Protección Social, 2013).
+
+    .tarjeta.p-4.mb-5(style="background-color: #EBF4FD")
+      LineaTiempoC.color-acento-contenido(text-small)
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="1")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Salud ambiental
+            p Conjunto de políticas, planificadas y desarrolladas de manera intersectorial, con la participación de los diferentes actores sociales, que buscan materializar el derecho a un ambiente sano, que favorezca y promueva la calidad de vida y salud de la población de presentes y futuras generaciones, a través de la transformación positiva de los determinantes sociales, sanitarios, laborales, ocupacionales y ambientales.
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-1.svg' style="max-width: 305px")
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="2")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Vida saludable y condiciones no transmisibles
+            p Conjunto de políticas e intervenciones transectoriales que buscan el bienestar y el disfrute de una vida sana en las diferentes etapas del transcurso de la vida, promoviendo modos, condiciones y estilos de vida saludables en los espacios cotidianos de las personas, familias y comunidades, así como el acceso a una atención integrada de condiciones no transmisibles con enfoque diferencial.
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-2.svg' style="max-width: 345px")
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="3")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Convivencia social y salud mental
+            p Espacio de acción transectorial y comunitario que, mediante la promoción de la salud mental y la convivencia, la transformación de problemas y trastornos prevalentes en salud mental y la intervención sobre las diferentes formas de la violencia, contribuye al bienestar y al desarrollo humano y social en todas las etapas del curso de la vida, con equidad y enfoque diferencial, en los territorios cotidianos.
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-3.svg' style="max-width: 319px")
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="4")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Seguridad alimentaria y nutricional
+            p Acciones que buscan garantizar el derecho a la alimentación sana con equidad, en las diferentes etapas del ciclo de vida, mediante la reducción y prevención de la malnutrición, el control de los riesgos sanitarios y fitosanitarios de los alimentos y la gestión intersectorial de la seguridad alimentaria y nutricional con perspectiva territorial.
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-4.svg' style="max-width: 295px")
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="5")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Derechos y sexualidad
+            p Conjunto de acciones intersectoriales que se orientan a promover las condiciones sociales, económicas, políticas y culturales que permiten el ejercicio libre, autónomo e informado de la sexualidad como un derecho humano, para el desarrollo de las potencialidades de las personas durante todo su ciclo vital, así como de los grupos y comunidades, desde un enfoque de género y diferencial.
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-5.svg' style="max-width: 225px")
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="6")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Vida saludable libre de enfermedades transmisibles
+            p Espacio de acción transectorial y comunitario que busca garantizar el disfrute de una vida sana, en las diferentes etapas del ciclo de vida, promoviendo modos, condiciones y estilos de vida saludables en los territorios cotidianos de las personas, familias y comunidades, así como el acceso a una atención integrada ante situaciones, condiciones y eventos transmisibles, con enfoque diferencial y equidad social, desde una perspectiva de desarrollo humano sostenible. 
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-6.svg' style="max-width: 292px")
+        .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="7")
+          .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            h3 Salud pública en emergencias y desastres
+            p Espacio de acción transectorial y comunitario que propende por la protección de individuos y colectivos ante los riesgos de emergencias o desastres, procurando reducir los daños que afectan la salud humana y ambiental, a través de la gestión integral del riesgo como un proceso social que orienta la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas y acciones permanentes para el conocimiento, la reducción del riesgo y el manejo de emergencias y desastres, con el fin de contribuir en la seguridad sanitaria, el bienestar, la calidad de vida de las personas y el desarrollo sostenible en el territorio nacional.
+          .col-lg-5(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-7.svg' style="max-width: 266px")
 
 </template>
 
