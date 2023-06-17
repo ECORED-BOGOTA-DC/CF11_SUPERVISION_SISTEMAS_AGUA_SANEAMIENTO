@@ -218,7 +218,7 @@
               p.mb-0 Para ampliar la información puede consultar el siguiente documento
             .col-sm-auto
               a.boton.color-primario(:href="obtenerLink('downloads/Decreto-3518-de-2006.pdf')" target="_blank")
-                span.pe-3 Ir a página
+                span.pe-3 Descargar 
                 i.fas.fa-file-download
     Separador
     .titulo-segundo.color-acento-botones

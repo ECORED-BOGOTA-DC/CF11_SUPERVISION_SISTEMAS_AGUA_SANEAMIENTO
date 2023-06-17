@@ -12,8 +12,25 @@
       .col-12.col-lg-7.ps-lg-4.ms-auto
         p.mb-0 La política de salud ambiental tiene por objeto orientar la gestión para el mejoramiento de la salud ambiental en el territorio urbano y rural, mediante el fortalecimiento institucional, el trabajo articulado de la administración, y la construcción de espacios de coordinación, investigación y acción participativa, en las diferentes líneas de intervención, que permitan una alta calidad de vida y de salud para todas las personas que en el habitan. 
 
-
-
+    .row.mb-5
+      .col-11.me-end.position-relative
+        .avatar
+          figure
+            img(src="@/assets/curso/temas/tema3/img-10.svg" alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img-9.svg" alt="alt").img100
+            .col
+              p La política distrital de salud ambiental surge en respuesta a las funciones delegadas para el Distrito Capital dentro del artículo 9 del Derecho 3518 (2006), como se explicó anteriormente, en concordancia con las dimensiones priorizadas en el Plan decenal de salud pública, enmarcado en lo establecido en la Ley 9 (1979), conocido como el Código sanitario nacional, que presenta el marco normativo general para la protección de la salud pública y el medio ambiente.
+        .crd.crd--avatarHorizontal.crd--last.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img-9.svg" alt="alt").img100
+            .col
+              p Esta política a nivel distrital se establece por medio del Decreto 56 (2011), el cual define la estructura organizacional para el desarrollo de los objetivos asociados a la salud ambiental para el Distrito Capital, con el objetivo de “incidir positivamente sobre las condiciones sanitarias y socio-ambientales que determinan la calidad de vida y la salud de los habitantes del Distrito Capital” (Alcaldía Mayor de Bogotá, 2011, p.7)
 
     p.mb-5 Es importante aclarar que las políticas de salud ambiental son creadas dependiendo del territorio, en este caso se aborda la de Bogotá, por ser una de las ciudades con mayor extensión y por presentar en un mismo territorio, diversidad de características, tanto rurales como urbanas. La política actual, fue la creada para los años 2011 al 2023, en la cual se identifican los actores sociales y se establecen acciones para diferentes aspectos ambientales como: 
 
@@ -65,7 +82,7 @@
 
     h3.mb-5 I. Línea de aire, ruido y radiación electromagnética
 
-    .cajon.color-acento-botones.p-4.mb-5.col-lg-8.mx-auto(style="background-color: #98D8D7")
+    .cajon.color-acento-botones.p-4.mb-5.col-lg-10.mx-auto(style="background-color: #98D8D7")
       p.mb-0(data-aos="fade-left") En esta línea se deben establecer instrumentos de tipo técnico y normativo para la orientación de las acciones de prevención, promoción y control en salud ambiental, en materia de calidad del aire, contaminación por ruido y radiación electromagnética, mediante el desarrollo de intervenciones complementarias entre sí, de forma integral e interdisciplinaria, a través del trabajo en equipo intra e interinstitucional, en pro de fortalecer las acciones de vigilancia epidemiológica, sanitaria y ambiental, la gestión de entornos saludables, la promoción de la salud y la prevención de la enfermedad, todo ello orientado a mejorar la calidad de vida y la salud (Alcaldía Mayor de Bogotá, 2011, p. 8).
 
     h3.mb-5 II. Línea de calidad de agua y saneamiento básico
@@ -100,8 +117,8 @@
                   h3.mb-1 Enfermedades vehiculizadas por agua
                   p.mb-0 Para ampliar la información sobre las enfermedades transmitidas por agua, consultar el siguiente documento
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('downloads/Decreto-3518-de-2006.pdf')" target="_blank")
-                    span.pe-3 Ir a página
+                  a.boton.color-primario(:href="obtenerLink('downloads/Enfermedades_Vehiculizadas_por_Agua.pdf')" target="_blank")
+                    span.pe-3 Descargar 
                     i.fas.fa-file-download
 
     .d-flex.flex-wrap.mb-5.container-100.py-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
@@ -168,11 +185,163 @@
 
     h3.mb-5 III. Línea de intervención en seguridad química
 
+    .img-texto-offset.mb-5
+      img.mb-3.mb-lg-0.d-none.d-md-flex(src="@/assets/curso/temas/tema3/img-11.jpg")
+      .container-offset.col-lg-10.mx-auto
+        p(data-aos="fade-right") Se entiende por seguridad química el conjunto de actividades encaminadas a prevenir los efectos nocivos, a corto y largo plazo, para la salud y el ambiente, derivados de la exposición a las sustancias químicas en cualquiera de las fases de su ciclo de vida. La línea de intervención de seguridad química está orientada a minimizar los efectos en la salud pública y el ambiente, derivados de las diferentes actividades económicas desarrolladas en la ciudad-región, en particular de aquellas en que se involucran sustancias químicas peligrosas, cuya competencia de vigilancia recae sobre las autoridades distritales. (Alcaldía Mayor de Bogotá, 2011, p. 11).
+    
+    .cajon.color-acento-botones.p-4.mb-5.col-lg-10.mx-auto(style="background-color: #98D8D7")
+      p.mb-0(data-aos="fade-left") La línea de intervención de seguridad química de la Política distrital de salud ambiental se encarga, entre otras actividades, de la verificación del adecuado uso, manejo, transporte y almacenamiento de las sustancias químicas, que con ocasión del desarrollo de las actividades que las emplean, ofrecen riesgo para la salud pública y la contaminación al ambiente. Además, se orienta a la prevención de los riesgos relacionados y a la promoción del correcto manejo de los residuos generados durante los procesos productivos que utilizan estas sustancias.
+    
+    .d-flex.flex-wrap.align-items-center.mb-5.container-100.py-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
+      img.col-lg-5.mx-auto.mb-4.my-lg-auto(src='@/assets/curso/temas/tema3/img-12.png' style="max-width: 505px" data-aos="fade-left")
+      .col-12.col-lg-7.ps-lg-4.ms-auto
+        h3 IV. Línea de alimentos sanos y seguros
+        p La presente línea de intervención de la Política distrital de salud ambiental articula todas aquellas acciones encaminadas a promover la adopción de prácticas seguras, garantizando que la población tenga acceso a alimentos sanos, seguros e inocuos a lo largo de la cadena agroalimentaria, con el fin de proteger la salud de los consumidores y contribuir a la protección del ambiente (Alcaldía Mayor de Bogotá, 2011, p. 13)
+        p Es importante resaltar que en esta línea de intervención también se prioriza el seguimiento y control a las enfermedades transmitidas por alimentos, haciendo implementación del mismo protocolo.
+        p Una de las líneas más importantes de intervención es la relacionada con el origen zoonótico; para entender mejor la temática, se invita a visualizar el siguiente video animado
+
+    h3.mb-5 V. Línea de intervención eventos transmisibles de origen zoonótico
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    p.mb-5 Con el fin de ampliar la información sobre las enfermedades zoonóticas y la intervención a las mismas, se invita a consultar el siguiente documento:
+
+    .tarjeta.color-acento-botones.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img.mx-auto(src="@/assets/curso/temas/img-3.svg" style="max-width: 50px; min-width: 50px")
+        .col.ps-4
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0(data-aos="fade-left")
+              h3.mb-1 Lineamiento tatico operativo
+              p.mb-0 Para ampliar la información sobre lineamiento tatico operativo, consultar el siguiente documento
+            .col-sm-auto
+              a.boton.color-primario(:href="obtenerLink('downloads/Lineamiento-Tatico-operativo-egi-Etv.pdf')" target="_blank")
+                span.pe-3 Descargar 
+                i.fas.fa-file-download
+    
+    p.mb-5 Dentro de la línea de intervención eventos transmisibles de origen zoonótico existen unos temas importantes como son:
+
+    .d-flex.align-items-center.mb-5
+      .mb-0.lista-ol--cuadro__vineta.d-flex.align-items-center(style="background-color: transparent")
+        img(src="@/assets/curso/temas/decorador-lista.svg" style="max-width: 20px")
+      h3.mb-0 Manejo integrado de plagas urbanas
+
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.col-lg-10.mx-auto.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-13.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4.py-lg-5
+        p.mb-0 Se entiende como un conjunto de actividades de promoción, prevención y vigilancia, desarrollados en forma intersectorial y con la participación comunitaria, tendientes a disminuir o controlar la población de estos animales, que pueden actuar como vectores mecánicos o huéspedes intermediarios ante problemas sanitarios o enfermedades zoonóticas. (Secretaria Distrital de Salud de Bogotá, 2011, p.1)
+
+    .d-flex.align-items-center.mb-5
+      .mb-0.lista-ol--cuadro__vineta.d-flex.align-items-center(style="background-color: transparent")
+        img(src="@/assets/curso/temas/decorador-lista.svg" style="max-width: 20px")
+      h3.mb-0 Animales objeto de control
+    
+    TabsC.color-secundario.mb-5.tabs-c-edit
+      .py-3.py-md-4(titulo="Artrópodo")
+        .row.col-lg-11.mx-auto.py-5
+          .col-md-6.mb-4.mb-md-0
+            p Animal invertebrado, con exoesqueleto y extremidades articuladas; comprende las familias de arácnidos, crustáceos, insectos y miriápodos. (secretaría distrital de salud de bogotá, 2011, p. 1)
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/img-14.png' alt='Texto que describa la imagen')
+      
+      .py-3.py-md-4(titulo="Roedor plaga")
+        .row.col-lg-11.mx-auto.py-5
+          .col-md-6.mb-4.mb-md-0
+            p Animal mamífero, especies múridas y ratón doméstico, que han constituido, a través de la historia, múltiples problemas al género humano en varios ámbitos de la vida: social, económico, ecológico y cultural, provocando permanentes e imprevisibles riesgos para la salud humana y animal (Secretaría Distrital de Salud de Bogotá, 2011, p. 1)
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/img-15.png' alt='Texto que describa la imagen')
+        
+    .d-flex.align-items-center.mb-5
+      .mb-0.lista-ol--cuadro__vineta.d-flex.align-items-center(style="background-color: transparent")
+        img(src="@/assets/curso/temas/decorador-lista.svg" style="max-width: 20px")
+      h3.mb-0 Puntos críticos de control
+    
+    p.mb-5 Son aquellos puntos que se han priorizado por el nivel de riesgo de ser focos de proliferación de vectores y roedores plaga. El protocolo de control vectorial de artrópodos y roedores (Secretaría Distrital de Salud de Bogotá, 2011, p. 3), define los siguientes puntos de riesgo: 
+
+    .row.mb-5
+      .mx-auto.col-lg-6.mb-4.mb-xl-0(data-aos="fade-right" style="max-width: 610px")
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color: #0074A7")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .d-flex.justify-content-center.align-items-center.tarjeta-slide__contenedor(style="min-height: 506px")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-16.png')})`}" style="background-position: bottom")
+            .tarjeta-slide__contenido.p-4.p-md-5
+              h3.mx-auto.text-center.text-white.text-center(style="max-width: 396px; font-size: 26px") Áreas públicas o de uso común
+              p.mx-auto.text-center.text-white(style="max-width: 396px") Caños, quebradas, zonas donde se evidencie estancamiento de aguas, especialmente residuales, centros de acopio de alimentos, zonas de disposición y eliminación de residuos sólidos y líquidos, y establecimientos públicos como parques y avenidas
+
+      .mx-auto.col-lg-6.mb-4.mb-xl-0(data-aos="fade-left" style="max-width: 610px")
+        .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false" style="background-color: #EE7900")
+          .d-flex.justify-content-center.align-items-center.tarjeta-slide__contenedor(style="min-height: 506px")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-17.png')})`}" style="background-position: bottom")
+            .tarjeta-slide__contenido.px-4.py-5.p-md-5
+              h3.mx-auto.text-center.text-white.text-center(style="max-width: 396px; font-size: 26px") Áreas privadas de los estratos socioeconómicos 1 y 2
+              p.mx-auto.text-center.text-white(style="max-width: 396px") Caracterizadas como de alto riesgo epidemiológico por su bajo nivel educativo, desempleo, carencia de servicios de agua potable y alcantarillado y hacinamiento; ubicadas en barrios subnormales. La intervención se realiza en viviendas multifamiliares sin capacidad de pago y en inquilinatos.
+
+    .d-flex.align-items-center.mb-5
+      .mb-0.lista-ol--cuadro__vineta.d-flex.align-items-center(style="background-color: transparent")
+        img(src="@/assets/curso/temas/decorador-lista.svg" style="max-width: 20px")
+      h3.mb-0 Protocolo de control vectorial 
+    
+    p.mb-5 A continuación, se presentan las actividades a realizar según el protocolo de control vectorial para artrópodos y roedores plaga, establecido por la Secretaría Distrital de Salud (Secretaría Distrital de Salud de Bogotá, 2011):
+
+    .d-flex.flex-wrap
+      img.col-xl-4.mb-4.mb-xl-auto.mx-auto(src='@/assets/curso/temas/tema3/img-18.svg' style="max-width: 387px" data-aos="fade-right")
+      TabsA.col-xl-8.ps-xl-4.color-acento-contenido.mb-5.tabs-edit(data-aos="fade-left")
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Identificación de foco")
+          h3 Identificación de foco
+          p El grupo de salud, con base en el conocimiento previo que tiene de la zona de injerencia, identificará los sectores de la localidad en donde se encuentran focos de residuos sólidos, líquidos y vertimientos.
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Asesoría y asistencia técnica")
+          h3 Asesoría y asistencia técnica
+          p Dirigida a propietarios y administradores de establecimientos e instituciones públicas y privadas que deben desarrollar planes de control de artrópodos y roedores plaga, como parte de su responsabilidad en mantener la salud de la población que allí habita, estudia o labora (conjuntos residenciales, edificios de oficinas, escuelas, colegios, clínicas y hospitales, supermercados, batallones, restaurantes, etcétera). Debe orientarse hacia la prevención y el control de focos; adecuada disposición y eliminación de residuos sólidos, líquidos y vertimientos; mejoramiento sanitario de establecimientos y sus alrededores; criterios para selección de los métodos a utilizar en el control; adecuado manejo de estos y prevención de accidentes, entre otros temas.
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Educación sanitaria")
+          h3 Educación sanitaria
+          p Como un componente fundamental para lograr las metas que se han trazado en el control vectorial y disminuir la presencia de patologías relacionadas con los mismos, se encuentran las actividades de promoción de la salud y la divulgación de conocimientos técnicos y científicos sobre las medidas de prevención y control de artrópodos y roedores.
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Planes de mejoramiento")
+          h3 Planes de mejoramiento
+          p Cuando no se cumpla con las exigencias establecidas en la normatividad y esta situación no incida directamente sobre la salud pública (por ejemplo, estructura física, tecnológica operativa, ausencia de planes de control de vectores, etcétera), se concertará con el interesado un plan de mejoramiento. En caso de pertenecer a un particular se concertará con este, en espacios públicos, con los diferentes sectores públicos, privados y comunitarios competentes y responsables. A este plan se le debe hacer seguimiento según las fases y los tiempos establecidos en el mismo.
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de un módulo")
+          h3 Aplicación de medidas sanitarias
+          p Si como resultado de la vigilancia y control sanitario se comprueba que el establecimiento no cumple con las condiciones sanitarias y las buenas prácticas de manejo establecidas en la normatividad, generando un riesgo para la salud pública, se aplicarán las medidas sanitarias de seguridad, procedimientos y sanciones establecidas en la Ley 9ª de 1979 y en el Capítulo VII del Decreto 2257 de 1986, las cuales deben quedar consignadas en el acta.
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Coordinación intersectorial y participación comunitaria")
+          h3 Coordinación intersectorial y participación comunitaria
+          p La variedad de factores económicos, sociales, políticos y culturales que determinan la transmisión de enfermedades por vectores y el impacto económico producido por estas, hace necesaria la intervención conjunta de otros sectores, públicos y privados, como alcaldías locales, Secretarías de Ambiente, Unidad Especial de Servicios Públicos (UESP), empresas de servicio de aseo, juntas de acción comunal, organizaciones no gubernamentales y el sector privado.
+
+    h3.mb-5 VI. Línea de intervención de medicamentos seguros
+
+    .d-flex.flex-wrap.align-items-center.p-4.p-lg-5.ps-lg-3.mb-5(style="background-color: #DFF3FF")
+      img.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-19.svg" style="max-width: 275px")
+      p.mb-0.col-lg.ps-lg-4 La línea de intervención de medicamentos seguros en la política distrital de salud ambiental, está orientada a contribuir en el derecho de los habitantes de la ciudad a la salud y a un ambiente sano, mediante la gestión integral de los medicamentos, dispositivos médicos y productos farmacéuticos, durante todo su ciclo de vida, para garantizar que la población del Distrito Capital cuente con productos de calidad, promoviendo su uso seguro, minimizando el riesgo de consumo de productos alterados y/o fraudulentos, y contribuyendo a su disposición final en condiciones ambientalmente sostenibles (Alcaldía Mayor de Bogotá, 2011, p. 16)
+
+    h3.mb-5 VII. Línea de intervención de cambio climático
+
+    p.mb-5 El fenómeno de cambio climático tiene impacto a nivel mundial, siendo una amenaza directa para la calidad de vida y la salud de las personas.
+
+    .cajon.color-acento-botones.p-4.mb-5.col-lg-10.mx-auto(style="background-color: #98D8D7")
+      p.mb-0(data-aos="fade-left") La política distrital de salud ambiental aborda la problemática del cambio climático como una propuesta de intervención que perite la implementación de estrategias y procesos de monitoreo, investigación, adaptación y mitigación, orientadas a la disminución de los eventos en salud causados por el cambio climático (Alcaldía Mayor de Bogotá, 2011, p. 17).
+    
+    h3.mb-5 VIII.  Línea de intervención de hábitat, espacio público y movilidad
+  
+    .d-flex.flex-wrap.align-items-center.p-4.p-lg-5.ps-lg-3(style="background-color: #DFF3FF")
+      img.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-20.svg" style="max-width: 275px")
+      p.mb-0.col-lg.ps-lg-4 La línea de hábitat, espacio público y movilidad de la Política distrital de salud ambiental, aborda las potencialidades y los impactos que en la calidad de vida y la salud de la población generan las condiciones del espacio físico, en cuanto a ubicación y tamaño de la vivienda y lugar de trabajo, la cantidad y calidad del espacio público disponible, la calidad y disponibilidad de los sistemas de transporte, afectando la garantía de una movilidad activa, accesible y segura, el acceso incluyente de todos y todas a los espacios que requiera, el desarrollo de la actividad física y la prevención de accidentes en el entorno urbano y rural (Alcaldía Mayor de Bogotá, 2011, p. 19).
 </template>
 
 <script>
+import TabsA from '@/components/TabsA.vue'
 export default {
   name: 'Tema3',
+  components: { TabsA },
   data: () => ({
     indicadorTarjetaSlide: true,
   }),
@@ -187,4 +356,11 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.tabs-c-edit
+  .tabs-c__header
+    .tabs-c__tab--active
+      border-bottom-color: #00BCD4 !important
+      &::before
+        border-top-color: #00BCD4 !important
+</style>
