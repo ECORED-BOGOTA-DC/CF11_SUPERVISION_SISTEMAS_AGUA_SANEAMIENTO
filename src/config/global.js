@@ -139,120 +139,180 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estrategias de comunicación con actores',
+      tema: 'Política distrital de salud ambiental',
       referencia:
-        'Geilfus, F. (2009). <em>80 herramientas para el desarrollo participativo: diagnóstico, planificación, monitoreo, evaluación.</em>',
-      tipo: 'Libro',
-      link:
-        'http://ejoventut.gencat.cat/permalink/aac2bb0c-2a0c-11e4-bcfe-005056924a59',
+        'Ministerio de Salud y Protección y Protección Social. (2020). <em>Modelo operativo de inspección, vigilancia y control para salud ambiental.</em>',
+      tipo: 'Artículo',
+      link: 'https://www.minsalud.gov.co/RID/modelo-operativo-ivc-t.pdf',
     },
     {
-      tema: 'Manejo de actores sociales',
+      tema: 'Salud pública',
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). <em>Manual metodológico de participación ciudadana.</em> MinSalud.',
-      tipo: 'Manual',
+        'Decreto No. 3518 de 2006. [Ministerio de Protección Social]. Por el cual se crea y reglamenta el Sistema de Vigilancia en Salud Pública y se dictan otras disposiciones. 8 de Junio  2017.',
+      tipo: 'Decreto',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VP/RBC/manual-metodologico-de-participacion-ciudadana.pdf',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Decreto-3518-de-2006.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Comunicación ambiental',
+      termino: 'Agente etiológico',
       significado:
-        'cualquier flujo de información ambientalmente relevante que involucra tanto comunicadores como audiencias y se logra mediante la entrega de mensajes efectivos y recepción interactiva Geilfus (2009).',
+        'entidad física, química o biológica que puede causar enfermedad en un organismo (Boletín agrario, 2020).',
     },
     {
-      termino: 'Consejos territoriales de participación ciudadana',
+      termino: 'Demografía',
       significado:
-        'en los niveles departamental, distrital y municipal (específicamente en los de categorías primera, segunda y especial) funcionan los Consejos Territoriales de Participación Ciudadana, los cuales se encargan, junto con las autoridades territoriales, de la política pública de participación ciudadana en sus territorios en articulación con el Consejo Nacional de Participación. Sus miembros son quienes ejerzan funciones equivalentes a las de los miembros señalados para el Consejo Nacional de Participación Ciudadana a nivel departamental, distrital o municipal (Ministerio del Interior, s.f.).',
+        'estudio estadístico de una colectividad humana, referido a un determinado momento o a su evolución (Asociación de academias de la lengua española, 2020).',
     },
     {
-      termino: 'Consultas populares de origen ciudadano',
+      termino: 'Género',
       significado:
-        'es un mecanismo de participación ciudadana donde se pone en consideración a los votantes un tema de trascendencia nacional, departamental, municipal, distrital o local. Con este es la ciudadanía la que contestando sí o no a una pregunta de carácter general termina definiendo si la decisión es conveniente o no para la comunidad (Ministerio del Interior, s.f.).',
+        'grupo al que pertenecen los seres humanos de cada sexo, entendido este desde un punto de vista sociocultural, en lugar de exclusivamente biológico (Asociación de academias de la lengua española, 2020).',
     },
     {
-      termino: 'Estrategia didáctica activa',
+      termino: 'Plaga',
       significado:
-        'selección de actividades y prácticas pedagógicas en diferentes momentos formativos, métodos y recursos en los procesos de enseñanza y aprendizaje. Manual de estrategias didácticas activas (2013).',
+        'aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones animales o vegetales, como, respectivamente, la peste bubónica y la filoxera (Asociación de academias de la lengua española, 2020).',
     },
     {
-      termino: 'Monitoreo',
+      termino: 'Residuos líquidos',
       significado:
-        'examen continuo de los procesos y la generación de productos de un programa durante la ejecución del mismo (Ministerio de Salud y Protección Social, 2016).',
+        'todo vertimiento de residuos líquidos deberá someterse a los requisitos y condiciones que establezca el Ministerio de salud. Teniendo en cuenta las características del sistema de alcantarillado y de la fuente receptora correspondiente (Congreso de la República de Colombia, 1979).',
+    },
+    {
+      termino: 'Vector',
+      significado:
+        'agente que transporta algo de un lugar a otro. Ser vivo que puede transmitir o propagar una enfermedad.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Castro, P., Mendoza, S. y Castor, L. (2007). <em>Estrategia educación ambiental para el conocimiento, el uso y la conservación de la biodiversidad en Colombia.</em> Instituto de Investigaciones de Recursos Biológicos Alexander Von Humboldt.',
-      link:
-        'http://siar.minam.gob.pe/puno/documentos/estrategia-educacion-ambiental-conocimiento-uso-sostenible',
+        'Beaglehole, R. (2003). <em>Epidemiología Básica.</em> Organización Mundial de la Salud.',
+      link: '',
     },
     {
-      referencia:
-        'CEPAL. (2010). <em>Lineamientos metodológicos para la construcción de indicadores de desempeño.</em> CEPAL.',
+      referencia: 'Brooker, C. (2010). Diccionario médico. El Manual Moderno.',
       link: '',
     },
     {
       referencia:
-        'CLDA. (2009). <em>Carta Iberoamericana de Participación Ciudadana en la Gestión Pública.</em> CLDA.',
-      link:
-        'https://observatorioserviciospublicos.gob.do/baselegal/carta_iberoamericana_de_participaci%C3%B3n_ciudadana.pdf',
+        'Dabanch, J. (2003). Zoonosis. Revista Chilena de Infectología, 20 (1), 47 - 51.',
+      link: 'https://scielo.conicyt.cl/pdf/rci/v20s1/art08.pdf ',
     },
     {
       referencia:
-        'Consultores Educativos Ambientales. (2014). <em>Plan de comunicación ambiental para la conservación de los arrecifes de coral de Puerto Rico.</em> CEA',
+        'Decreto No 596 de 2011. [Alcaldía Mayor de Bogotá]. Por medio del cual se adopta la política distrital de salud ambiental para Bogotá D.C. 2011-2023. 19 de diciembre de 2011.',
       link:
-        'http://drna.pr.gov/wp-content/uploads/2017/06/Plan-de-Comunicaci%C3%B3n-Ambiental-para-la-Conservaci%C3%B3n-de-los-Arrecifes-de-Coral-de-Puerto-Rico.pdf',
+        'http://www.saludcapital.gov.co/DocumentosPoliticasEnSalud/POL%C3%8D.%20SALUD%20AMBIENTAL.%20DECRETO%20NO%20596%20DE%202011.PDF',
     },
     {
       referencia:
-        'Corporación Autónoma Regional de Cundinamarca. (2014). <em>Guía metodológica y pedagógica como soporte del proceso de educación ambiental.</em> CAR.',
+        'Decreto No. 3518 de 2006. [Ministerio de Protección Social]. Por el cual se crea y reglamenta el Sistema de Vigilancia en Salud Pública y se dictan otras disposiciones. 8 de junio 2017.',
       link:
-        'http://sie.car.gov.co/bitstream/handle/20.500.11786/35887/28290.pdf?sequence=1&isAllowed=y',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Decreto-3518-de-2006.pdf',
     },
     {
       referencia:
-        'Geilfus, F. (2009). <em>80 herramientas para el desarrollo participativo: diagnóstico, planificación, monitoreo, evaluación.</em>',
+        'Idrovo, A. J. (2000). <em>Epidemias, endemias y conglomerados: conceptos básicos.</em> Revista Facultad de Medicina de la Universidad Nacional de Colombia, 48(3), 175 - 180. ',
       link:
-        'http://ejoventut.gencat.cat/permalink/aac2bb0c-2a0c-11e4-bcfe-005056924a59',
+        'https://revistas.unal.edu.co/index.php/revfacmed/article/download/19623/20690',
     },
     {
       referencia:
-        'Instituto Distrital de la Participación y Acción Comunal. <em>(2007). Mecanismos de participación ciudadana.</em> IDPAC.',
+        'Instituto Nacional de Salud. (2017). <em>Guía para la vigilancia por laboratorio de Enfermedad Diarreica Aguda (EDA) y Enfermedad Transmitida por Alimentos (ETA) de origen bacteriano.</em>',
       link:
-        'https://participacionbogota.gov.co/mecanismos-participacion-ciudadana',
+        'https://www.ins.gov.co/buscador-eventos/Informacin%20de%20laboratorio/Gu%C3%ADa%20para%20la%20vigilancia%20por%20laboratorio%20de%20EDA%20y%20ETA.pdf',
     },
     {
       referencia:
-        'Ley 850 de 2003. [Poder público - Rama Legislativa]. <em>Por medio de la cual se reglamentan las veedurías ciudadanas.</em> Noviembre 19 de 2003. DO No. 45.376.',
+        'Instituto Nacional de Salud. (2022). <em>Protocolo de vigilancia en salud pública para el cólera.</em>',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0850_2003.html',
+        'https://www.ins.gov.co/buscador-eventos/Lineamientos/Pro_C%C3%B3lera.pdf  ',
     },
     {
       referencia:
-        'Martínez, M. y Ciudad-Real, G. (2013). <em>Manual de estrategias didácticas activas.</em>',
+        'Instituto Nacional de Salud. (2017). <em>Protocolo de vigilancia para Infección Respiratoria Aguda (IRA).</em>',
       link:
-        'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjP292r16XrAhVsx1kKHfixCAQQFjAAegQIARAB&url=https%3A%2F%2Fwww.orientacionandujar.es%2Fwp-content%2Fuploads%2F2015%2F03%2FManual-estrategias-didacticas.pdf&usg=AOvVaw3STa_5TlRI4TsVCGsoKotF',
+        'https://www.ins.gov.co/BibliotecaDigital/PRO-Infecci%C3%B3n-respiratoria-aguda.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). <em>Manual metodológico de participación ciudadana.</em> MinSalud.',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VP/RBC/manual-metodologico-de-participacion-ciudadana.pdf',
+        'Instituto Nacional de Salud. (2017). <em>Protocolo en vigilancia pública Hepatitis A.</em>',
+      link: '',
     },
     {
       referencia:
-        'Núñez, L. (s.f). <em>Sostenibilidad y actores sociales en la protección del medioambiente en Cuba.</em> CLACSO.',
-      link:
-        'http://biblioteca.clacso.edu.ar/ar/libros/cuba/cips/caudales05/Caudales/ARTICULOS/ArticulosPDF/0416N076.pdf',
+        'Instituto Nacional de Salud. (2016). <em>Enfermedades Vehiculizadas por Agua (EVA) e Índice de Riesgo de la Calidad Agua (IRCA) en Colombia 2015.</em> ISBN:978-958-13-0174-4',
+      link: '',
     },
     {
       referencia:
-        'Zamalloa, E y Díaz, J. (2005). <em>Manual 5, guías metodológicas para la gestión ambiental.</em>',
+        'Instituto Nacional de Salud. (2015).  Enfermedades Vehiculizadas por Agua-EVA e Índice de Riesgo de la Calidad-IRCA. Colombia 2014.',
       link:
-        'https://www.academia.edu/25938537/Gu%C3%ADas_Metodol%C3%B3gicas_para_la_Gesti%C3%B3n_Ambiental',
+        'https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2015%20Enfermedades%20Vehiculizadas%20por%20Agua%202014.pdf',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Salud. (2014). <em>Protocolo de vigilancia en Salud pública. Enfermedades transmitidas por alimentos.</em> Instituto Nacional de Salud.',
+      link: '',
+    },
+    {
+      referencia:
+        'López, S. F. (2013). <em>Introducción a la salud pública.</em> Universidad de San Carlos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud & Instituto Nacional de Salud. (2017). <em>Lineamiento táctico y operativo de la estrategia de gestión integrada para las enfermedades transmitidas por vectores (EGI-ETV) a nivel territorial.</em>',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/PAI/Lineamiento-Tatico-operativo-egi-Etv.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2014). <em>Guía metodológica nacional para la caracterización de fuentes de información para la salud en Colombia.</em>',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/GCFI/guia%20definitiva%2019062014.pdff',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2020). <em>Modelo operativo de inspección, vigilancia y control para salud ambiental.</em>',
+      link: 'https://www.minsalud.gov.co/RID/modelo-operativo-ivc-t.pdf',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (2 de Mayo de 2017). <em>Enfermedades diarreicas.</em> OMS.',
+      link:
+        'https://www.who.int/es/news-room/fact-sheets/detail/diarrhoeal-disease#:~:text=Hay%20tres%20tipos%20cl%C3%ADnicos%20de,dura%2014%20d%C3%ADas%20o%20m%C3%A1s.',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2011). <em>Guía vigilancia de las enfermedades transmitidas por alimentos.</em>',
+      link:
+        'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10540:2015-capitulo-i-guia-veta-inocuidad-de-alimentos&Itemid=0&lang=es#gsc.tab=0',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2018). <em>Indicadores de salud aspectos conceptuales y operativos.</em> Washington D.C. ISBN: 978-92-75-32005-1',
+      link:
+        'https://iris.paho.org/bitstream/handle/10665.2/49058/9789275320051_spa.pdf?sequence=5&isAllowed=y',
+    },
+    {
+      referencia:
+        'Resolución No 1229. Ministerio de Protección Social. Colombia. 23 de abril de 2013.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-1229-de-2013.pdf',
+    },
+    {
+      referencia:
+        'Secretaría Distrital de Salud de Bogotá. (2011). <em>Control vectorial de artrópodos y roedores plaga. Secretaría Distrital de Salud de Bogotá.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        'Whittembury, A. (2011). <em>El perfil epidemiológico y el análisis de situación del país.</em>',
+      link: 'http://www.esperantra.org/biblioteca/peaepweb.pdf',
     },
   ],
   creditos: [
@@ -270,18 +330,13 @@ export default {
           centro: 'Centro de Gestión Industrial',
         },
         {
-          nombre: 'Javier Ricardo Luna Pineda',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro para la Industria de la Comunicación Gráfica',
-        },
-        {
           nombre: 'Silvia Milena Sequeda Cárdenas',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Sergio Arturo Medina Castillo',
-          cargo: 'Evaluador instruccional',
+          nombre: 'Adriana Lozano Zapata',
+          cargo: 'Revisora de estilo',
           centro: 'Centro para la Industria de la Comunicación Gráfica',
         },
         {
@@ -296,7 +351,7 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Julia Isabel Roberto',
+          nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Correctora de estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
@@ -306,8 +361,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuadora Instrucciona',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor metodológico',
+          centro:
+            'Centro de gestión de Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Liliana Morales Gualdrón',
+          cargo: 'Responsable línea de producción Distrito Capital',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -317,7 +384,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          nombre: 'Adriana Marcela Suarez Eljure',
           cargo: 'Diseñador web',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
@@ -340,19 +407,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
+          nombre: 'Nombre',
           cargo: 'Validación y vinculación en plataforma LMS',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Nombre',
           cargo: 'Validación de contenidos accesibles',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
