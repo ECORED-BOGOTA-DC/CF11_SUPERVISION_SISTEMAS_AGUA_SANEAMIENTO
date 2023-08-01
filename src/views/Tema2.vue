@@ -8,10 +8,10 @@
       h1 Salud pública
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-5.col-xl-4.mx-auto.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/img-1.svg' style="max-width: 400px" data-aos="fade-left")
+      img.col-lg-5.col-xl-4.mx-auto.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/img-1.svg' style="max-width: 400px" data-aos="fade-left" alt="Imagen decorativa")
       .col-12.col-lg-7.col.xl-8.ps-lg-4.ms-auto
         .tarjeta.tarjeta-row
-          p.mb-0 El concepto de salud, en el sentido de un estado completo de bienestar, incluyendo factores internos y externos de la persona, implica el desarrollo de un modelo socio económico de salud, mediante el cual se incluyan los principales factores determinantes de la salud y sus interacciones.
+          p.mb-0 El concepto de salud, en el sentido de un estado completo de bienestar, incluyendo factores internos y externos de la persona, implica el desarrollo de un modelo socioeconómico de salud, mediante el cual se incluyan los principales factores determinantes de la salud y sus interacciones.
             br
             br
             |Para ello, se puede tomar como base el modelo descrito por López, S. (2013) en su documento Introducción a la salud pública, en el cual presenta los diferentes determinantes de la salud por medio de capas de influencia sobre el individuo, de la siguiente forma:
@@ -23,34 +23,34 @@
             p En el medio se encuentra el individuo con los factores que influyen en su salud y que no pueden ser modificados, como son la edad, el sexo y determinantes genéticos, los cuales son conocidos como factores constitucionales de la salud.
           .order-lg-2.order-1.col-lg-6.col-xl-4.mx-auto.mb-4.mb-lg-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/img-2.svg' style="max-width: 375px" data-aos="fade-left")
+              img.mx-auto(src='@/assets/curso/temas/tema2/img-2.svg' style="max-width: 375px" data-aos="fade-left" alt="Imagen decorativa")
         .row.align-items-center
           .order-lg-1.order-2.col-lg-6.col-xl-4.mb-4.mb-md-0.offset-xl-1(data-aos="fade-right")
             p Alrededor se encuentran las capas que representan los factores determinantes en la salud que pueden ser modificados, como son por ejemplo, los estilos de vida saludables, que implican cambios en hábitos nocivos, por hábitos protectores de la salud. En definitiva, los aspectos descritos anteriormente y los programas asociados a los mismos se conocen como promoción de la salud, entre lo que se encuentra las campañas en contra del uso de tabaco, fomento de actividad física, entre otras. 
           .order-lg-2.order-1.col-lg-6.col-xl-4.mx-auto.mb-4.mb-lg-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/img-3.svg' style="max-width: 375px" data-aos="fade-left")
+              img.mx-auto(src='@/assets/curso/temas/tema2/img-3.svg' style="max-width: 375px" data-aos="fade-left" alt="Imagen decorativa")
         .row.align-items-center
           .order-lg-1.order-2.col-lg-6.col-xl-4.mb-4.mb-md-0.offset-xl-1(data-aos="fade-right")
             p En una tercera capa, se tiene en cuenta el entorno comunitario del individuo y cómo este puede afectar sus esfuerzos a través de su influencia en la adopción o no de sus hábitos saludables, por ejemplo, desestimular el consumo de tabaco en un individuo que se encuentra rodeado de personas que fuman en sus entornos familiar y laboral, representando un factor de dificultad mayor.
           .order-lg-2.order-1.col-lg-6.col-xl-4.mx-auto.mb-4.mb-lg-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/img-4.svg' style="max-width: 375px" data-aos="fade-left")
+              img.mx-auto(src='@/assets/curso/temas/tema2/img-4.svg' style="max-width: 375px" data-aos="fade-left" alt="Imagen decorativa")
         .row.align-items-center
           .order-lg-1.order-2.col-lg-6.col-xl-4.mb-4.mb-md-0.offset-xl-1(data-aos="fade-right")
             p En la capa más externa se encuentran los determinantes que tienen una influencia más amplia. Allí se encuentran las condiciones laborales, condiciones de vida, acceso a los alimentos, servicios de saneamiento básico y agua potable, accesibilidad a los servicios de salud, calidad y condiciones de vivienda, que afectan de igual forma las condiciones y estado de salud del individuo.
           .order-lg-2.order-1.col-lg-6.col-xl-4.mx-auto.mb-4.mb-lg-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/img-5.svg' style="max-width: 375px" data-aos="fade-left")
+              img.mx-auto(src='@/assets/curso/temas/tema2/img-5.svg' style="max-width: 375px" data-aos="fade-left" alt="Imagen decorativa")
     
     p.mb-5 Este modelo representa las principales capas de influencia determinantes de la salud como se muestra en la (Figura 1). En el Centro es un factor individual y constitucional que afectan su salud, pero no se cambian. Alrededor de esto, existen posibles determinantes cambiables, comenzando con el estilo de vida, el objeto de décadas de esfuerzos para fortalecer la salud. Los determinantes, considerados más amplios o profundos, desde el punto de vista de su influencia, están asociados con las condiciones de vida y trabajo, alimentos y acceso a los servicios principales, además de las condiciones socioeconómicas, culturales y ambientales presentadas en el más nivel externo.
     
     .col-lg-10.col-xl-8.mx-auto
-      .titulo-sexto.color-secundario.d-block
-        h5 Figura 1.
-        p.mb-0 <em>Modelo socioeconómico de salud</em>
+      .titulo-sexto.color-secundario
+        h5 Figura 1
+        span.mb-0 <em>Modelo socioeconómico de salud</em>
       figure.mb-5(data-aos="fade-left")
-        img.mb-3(src='@/assets/curso/temas/tema2/img-6.svg' alt='')
+        img.mb-3(src='@/assets/curso/temas/tema2/img-6.svg' alt='Muestra condiciones socioeconómicas, culturales y ambientales, redes sociales y comunitarias y estilos de vida del individuo, transversalizadas por  agricultura, educación, ambiente laboral, condiciones de vida y trabajo, desempleo, agua y saneamiento, servicios de atención de salud y vivienda.')
         figcaption <b>Nota.</b> Adaptado de López, S. (2013). Introducción a la salud pública.
 
     p.mb-5 Teniendo en cuenta los determinantes de salud descritos, es necesario implementar estrategias que logren influir positivamente en cada una de las capas y mejoren las condiciones de la población, lo cual se logra a través de la implementación de la salud pública, que es descrita por la Organización Panamericana de la Salud como: 
@@ -58,7 +58,7 @@
     .bloque-texto-d.p-4.pb-0.bloque-texto-d-edit.mb-5.col-lg-10.col-xl-8.mx-auto
       .bloque-texto-d__texto.mb-2.d-md-flex
         i.fas.fa-quote-left(style="color: #3BC192; font-size: 28px")
-        p.text-regular.fw-bold(style="font-size: 20px" data-aos="fade-left") <em>El esfuerzo organizado de la sociedad, principalmente a través de sus instituciones de carácter público, para mejorar, promover, proteger y restaurar la salud de las poblaciones por medio de actuaciones de alcance colectivo</em>
+        p.text-regular.fw-bold(style="font-size: 20px" data-aos="fade-left") <em>“El esfuerzo organizado de la sociedad, principalmente a través de sus instituciones de carácter público, para mejorar, promover, proteger y restaurar la salud de las poblaciones por medio de actuaciones de alcance colectivo”</em>
       .bloque-texto-d__autor.d-flex.justify-content-end
         .h5.mb-0 (López, S., 2013, p. 2).
         i.fas.fa-quote-right(style="color: #3BC192; font-size: 28px")
@@ -67,7 +67,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-10.col-xl-8.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-7.svg' alt='')
+        img(src='@/assets/curso/temas/tema2/img-7.svg' alt='muestra diagrama con actividades del sistema de vigilancia publica donde definen:  Actividades de salud pública, Responsables del sistema de vigilancia en salud pública y sus funciones y Plan decenal de salud pública.')
     Separador 
     .titulo-segundo.color-acento-botones
       h2#t_2_1 2.1. Actividades de salud pública
@@ -77,7 +77,7 @@
     .d-flex.flex-wrap.align-items-start
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema2/img-8.svg' style="max-width: 400px")
+          img(src='@/assets/curso/temas/tema2/img-8.svg' style="max-width: 400px" alt="Imagen decorativa")
       .col-lg-8.ps-lg-4
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Protección de la salud" data-aos="fade-left")
@@ -98,7 +98,7 @@
     .titulo-edit
       h3 Ministerio de protección social
 
-    img.ps-md-5.ms-md-3.mb-5(src='@/assets/curso/temas/tema2/img-9.svg' style="max-width: 328px")
+    img.ps-md-5.ms-md-3.mb-5(src='@/assets/curso/temas/tema2/img-9.svg' style="max-width: 328px" alt="Imagen decorativa")
 
     .d-flex.flex-wrap
       ol.lista-ol--cuadro.lista-ol--separador.col-lg-7.col-xl-8.pe-lg-4.order-2.order-lg-1
@@ -121,14 +121,14 @@
         li.d-flex
           .mb-0.lista-ol--cuadro__vineta(style="background-color: transparent")
             img(src="@/assets/curso/temas/decorador-lista.svg" style="max-width: 20px")
-          | Una de sus funciones más relevantes es que “realizará el análisis de situaciones de salud del país y tendrá la responsabilidad de declarar la emergencia nacional en salud pública “(Decreto 3518, 2006, p. 4).
-      img.col-lg-5.col-xl-4.img-movil.img-edit-offset.order-1.order-lg-2.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/img-10.svg' style="max-width: 400px")
+          | Una de sus funciones más relevantes es que “realizará el análisis de situaciones de salud del país y tendrá la responsabilidad de declarar la emergencia nacional en salud pública” (Decreto 3518, 2006, p. 4).
+      img.col-lg-5.col-xl-4.img-movil.img-edit-offset.order-1.order-lg-2.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/img-10.svg' style="max-width: 400px" alt="Imagen decorativa")
     
     p.mb-5 <b>El Instituto Nacional de Salud (INS) y el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA), tienen como funciones relevantes: </b>
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-8.col-xl-6.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-11.svg' alt='')
+        img(src='@/assets/curso/temas/tema2/img-11.svg' alt="Imagen decorativa")
 
     .titulo-edit.mb-5
       h3 Direcciones departamentales y distritales de salud
@@ -137,7 +137,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-8.col-xl-6.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-12.svg' alt='')
+        img(src='@/assets/curso/temas/tema2/img-12.svg' alt='Muestra pirámide con funciones dispuestas en el DEcreto 3518 (2006) donde resalta: a) Gerenciar el sistema Sivigila en su territorio. b) Difundir todo el sistema de información del Ministerio de Salud. c) Vigilar y coordinar las actividades de operación del sistema Sivigila. d) Apoyar a los territorios en acciones de control epidemiológico. e) Cumplir y hacer cumplir todas las normas y leyes referentes a salud pública.')
 
     .titulo-edit.mb-5
       h3 Direcciones municipales de salud
@@ -146,7 +146,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-8.col-xl-6.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-13.svg' alt='')
+        img(src='@/assets/curso/temas/tema2/img-13.svg' alt='Imagen decorativa')
 
     .titulo-edit.mb-5
       h3 Entidades administradoras de planes de beneficios de salud
@@ -155,7 +155,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-10.col-xl-8.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-14.svg' alt='')
+        img(src='@/assets/curso/temas/tema2/img-14.svg' alt='Imagen decorativa')
 
     .titulo-edit.mb-5
       h3 Unidades primarias generadoras de datos
@@ -203,7 +203,7 @@
       h3 Otras entidades
     
     .cajon.color-acento-botones.p-4.mb-5.col-lg-8.mx-auto(style="background-color: #98D8D7")
-      p.mb-0(data-aos="fade-left") Aquellas entidades que antes de la entrada en vigor del presente decreto no participaban en los procesos de vigilancia, deberán integrarse funcionalmente al Sistema de Vigilancia en salud pública (Sivigila) y a la operación del mismo, en la medida en que sean diseñados e implementados modelos de vigilancia en los que puedan participar como proveedores de información de interés en salud pública (Decreto 3518, 2006,).
+      p.mb-0(data-aos="fade-left") Aquellas entidades que antes de la entrada en vigor del presente decreto no participaban en los procesos de vigilancia, deberán integrarse funcionalmente al Sistema de Vigilancia en salud pública (Sivigila) y a la operación del mismo, en la medida en que sean diseñados e implementados modelos de vigilancia en los que puedan participar como proveedores de información de interés en salud pública (Decreto 3518, 2006).
 
     p.mb-5 Para ampliar la información acerca del funcionamiento del Sistema de Vigilancia en Salud Pública se recomienda consultar el Decreto 3518 de 2006:
 
@@ -224,7 +224,7 @@
     .titulo-segundo.color-acento-botones
       h2#t_2_3 2.3. Plan decenal de salud pública
     
-    p.mb-5 Para poner en marcha las actividades del sistema de salud se desarrollan los planes decenales de salud pública, los cuales se proyectan cada 10 años, atendiendo las necesidades identificadas para el país. Actualmente está vigente el Plan Decenal correspondiente a los años 2012 - 2021, en el cual se priorizan las siguientes siete (7) dimensiones para atender las necesidades en Salud pública (Ministerio de Salud y Protección Social, 2013).
+    p.mb-5 Para poner en marcha las actividades del sistema de salud se desarrollan los planes decenales de salud pública, los cuales se proyectan cada 10 años, atendiendo las necesidades identificadas para el país. Actualmente, está vigente el Plan Decenal correspondiente a los años 2012 - 2021, en el cual se priorizan las siguientes siete (7) dimensiones para atender las necesidades en Salud pública (Ministerio de Salud y Protección Social, 2013).
 
     .tarjeta.p-4.mb-5(style="background-color: #EBF4FD")
       LineaTiempoC.color-acento-contenido(text-small)
@@ -234,49 +234,49 @@
             p Conjunto de políticas, planificadas y desarrolladas de manera intersectorial, con la participación de los diferentes actores sociales, que buscan materializar el derecho a un ambiente sano, que favorezca y promueva la calidad de vida y salud de la población de presentes y futuras generaciones, a través de la transformación positiva de los determinantes sociales, sanitarios, laborales, ocupacionales y ambientales.
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-1.svg' style="max-width: 305px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-1.svg' style="max-width: 305px" alt="Imagen decorativa")
         .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="2")
           .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
             h3 Vida saludable y condiciones no transmisibles
             p Conjunto de políticas e intervenciones transectoriales que buscan el bienestar y el disfrute de una vida sana en las diferentes etapas del transcurso de la vida, promoviendo modos, condiciones y estilos de vida saludables en los espacios cotidianos de las personas, familias y comunidades, así como el acceso a una atención integrada de condiciones no transmisibles con enfoque diferencial.
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-2.svg' style="max-width: 345px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-2.svg' style="max-width: 345px" alt="Imagen decorativa")
         .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="3")
           .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
             h3 Convivencia social y salud mental
             p Espacio de acción transectorial y comunitario que, mediante la promoción de la salud mental y la convivencia, la transformación de problemas y trastornos prevalentes en salud mental y la intervención sobre las diferentes formas de la violencia, contribuye al bienestar y al desarrollo humano y social en todas las etapas del curso de la vida, con equidad y enfoque diferencial, en los territorios cotidianos.
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-3.svg' style="max-width: 319px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-3.svg' style="max-width: 319px" alt="Imagen decorativa")
         .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="4")
           .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
             h3 Seguridad alimentaria y nutricional
             p Acciones que buscan garantizar el derecho a la alimentación sana con equidad, en las diferentes etapas del ciclo de vida, mediante la reducción y prevención de la malnutrición, el control de los riesgos sanitarios y fitosanitarios de los alimentos y la gestión intersectorial de la seguridad alimentaria y nutricional con perspectiva territorial.
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-4.svg' style="max-width: 295px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-4.svg' style="max-width: 295px" alt="Imagen decorativa")
         .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="5")
           .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
             h3 Derechos y sexualidad
             p Conjunto de acciones intersectoriales que se orientan a promover las condiciones sociales, económicas, políticas y culturales que permiten el ejercicio libre, autónomo e informado de la sexualidad como un derecho humano, para el desarrollo de las potencialidades de las personas durante todo su ciclo vital, así como de los grupos y comunidades, desde un enfoque de género y diferencial.
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-5.svg' style="max-width: 225px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-5.svg' style="max-width: 225px" alt="Imagen decorativa")
         .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="6")
           .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
             h3 Vida saludable libre de enfermedades transmisibles
             p Espacio de acción transectorial y comunitario que busca garantizar el disfrute de una vida sana, en las diferentes etapas del ciclo de vida, promoviendo modos, condiciones y estilos de vida saludables en los territorios cotidianos de las personas, familias y comunidades, así como el acceso a una atención integrada ante situaciones, condiciones y eventos transmisibles, con enfoque diferencial y equidad social, desde una perspectiva de desarrollo humano sostenible. 
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-6.svg' style="max-width: 292px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-6.svg' style="max-width: 292px" alt="Imagen decorativa")
         .row.align-items-center.col-xl-11.mx-auto.justify-content-between(titulo="7")
           .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
             h3 Salud pública en emergencias y desastres
             p Espacio de acción transectorial y comunitario que propende por la protección de individuos y colectivos ante los riesgos de emergencias o desastres, procurando reducir los daños que afectan la salud humana y ambiental, a través de la gestión integral del riesgo como un proceso social que orienta la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas y acciones permanentes para el conocimiento, la reducción del riesgo y el manejo de emergencias y desastres, con el fin de contribuir en la seguridad sanitaria, el bienestar, la calidad de vida de las personas y el desarrollo sostenible en el territorio nacional.
           .col-lg-5(data-aos="fade-left")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema2/lt-7.svg' style="max-width: 266px")
+              img.mx-auto(src='@/assets/curso/temas/tema2/lt-7.svg' style="max-width: 266px" alt="Imagen decorativa")
 
 </template>
 

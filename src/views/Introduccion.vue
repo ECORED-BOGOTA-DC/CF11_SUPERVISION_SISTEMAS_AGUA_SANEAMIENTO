@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     .container-100.d-flex.flex-wrap.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
-      img.col-lg-5.mb-4.mb-lg-auto.img-movil(src="@/assets/curso/temas/img-1.svg" data-aos="fade-right")
+      img.col-lg-5.mb-4.mb-lg-auto.img-movil(src="@/assets/curso/temas/img-1.svg" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4
         p.mb-5(data-aos="fade-right") Para definir  el concepto de salud, es necesario tener en cuenta las diferentes perspectivas asociadas a los puntos de vista cultural, histórico, social e incluso religioso, las cuales fueron adoptadas por la Organización Mundial de la Salud (OMS) en 1947, definiendo la salud como:
         .bloque-texto-d.p-4.pb-0.bloque-texto-d-edit.mb-5

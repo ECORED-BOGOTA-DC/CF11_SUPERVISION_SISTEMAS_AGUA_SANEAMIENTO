@@ -27,49 +27,49 @@
         h4 Información basada en los servicios de salud:
         br
         p.mb-0 Incluye sistemas rutinarios de información en salud, sistemas clásicos de vigilancia de las enfermedades, registro de las actividades de prestación de servicios de salud, registro de centros de salud sobre causas de muerte, atenciones ambulatorias, recursos de salud, recursos humanos, infraestructura física, cuentas en salud a nivel nacional y territorial. 
-    p.mb-5 Otras fuentes de información que pueden complementar un sistema de información en salud están relacionadas con la investigación en salud (Ej. los ensayos clínicos o estudios longitudinales de las comunidades) (Ministerio de Salud y Protección Social, 2014, p. 12).
+    p.mb-5 Otras fuentes de información que pueden complementar un sistema de información en salud están relacionadas con la investigación en salud (Ej. Los ensayos clínicos o estudios longitudinales de las comunidades) (Ministerio de Salud y Protección Social, 2014, p. 12).
 
     .titulo-edit.mb-5
       h3 Caracterización de las fuentes de información
     
-    p.mb-5 Lograr caracterizar la fuente de información permite hacer una selección de las más apropiadas y de su aplicación consecutiva, buscando reducir a toda costa la incertidumbre y la posibilidad de error de tomar datos no reales. Para ello se sugiere realizar 12 pasos: 
+    p.mb-5 Lograr, caracterizar la fuente de información permite hacer una selección de las más apropiadas y de su aplicación consecutiva, buscando reducir a toda costa la incertidumbre y la posibilidad de error de tomar datos no reales. Para ello se sugiere realizar 12 pasos: 
 
     PasosA.col-md-10.col-lg-8.col-xl-6.mx-auto.color-primario.mb-5(tipo="n")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
         p.order-2.order-md-1.mb-0.col-md.pe-md-4(data-aos="fade-right") Revisión documental y de recursos. 
-        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-1.svg" style="max-width: 131px" data-aos="fade-left")
+        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-1.svg" style="max-width: 131px" data-aos="fade-left" alt="Imagen decorativa")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
-        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-2.svg" style="max-width: 131px" data-aos="fade-right")
+        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-2.svg" style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
         p.mb-0.col-md.ps-md-4(data-aos="fade-left") Análisis de la normatividad.
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
         p.order-2.order-md-1.mb-0.col-md.pe-md-4(data-aos="fade-right") Revisión y diligenciamiento de la ficha de caracterización.
-        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-3.svg" style="max-width: 131px" data-aos="fade-left")
+        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-3.svg" style="max-width: 131px" data-aos="fade-left" alt="Imagen decorativa")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
-        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-4.svg" style="max-width: 131px" data-aos="fade-right")
+        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-4.svg" style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
         p.mb-0.col-md.ps-md-4(data-aos="fade-left") Proceso de producción de la fuente basado en el ciclo Planear, Hacer, Verificar y Actuar (PHVA). 
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
         p.order-2.order-md-1.mb-0.col-md.pe-md-4(data-aos="fade-right") Flujo de información para la fuente.
-        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-5.svg" style="max-width: 131px" data-aos="fade-left")
+        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-5.svg" style="max-width: 131px" data-aos="fade-left" alt="Imagen decorativa")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
-        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-6.svg" style="max-width: 131px" data-aos="fade-right")
+        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-6.svg" style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
         p.mb-0.col-md.ps-md-4(data-aos="fade-left") Catálogo de variables.
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
         p.order-2.order-md-1.mb-0.col-md.pe-md-4(data-aos="fade-right") Protocolos de seguridad de la fuente y confidencialidad de los datos. 
-        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-7.svg" style="max-width: 131px" data-aos="fade-left")
+        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-7.svg" style="max-width: 131px" data-aos="fade-left" alt="Imagen decorativa")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
-        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-8.svg" style="max-width: 131px" data-aos="fade-right")
+        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-8.svg" style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
         p.mb-0.col-md.ps-md-4(data-aos="fade-left") Asistencia técnica.
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
         p.order-2.order-md-1.mb-0.col-md.pe-md-4(data-aos="fade-right") Manual de auditoría. 
-        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-9.svg" style="max-width: 131px" data-aos="fade-left")
+        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-9.svg" style="max-width: 131px" data-aos="fade-left" alt="Imagen decorativa")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
-        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-10.svg" style="max-width: 131px" data-aos="fade-right")
+        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-10.svg" style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
         p.mb-0.col-md.ps-md-4(data-aos="fade-left") Validación de variables. 
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
         p.order-2.order-md-1.mb-0.col-md.pe-md-4(data-aos="fade-right") Indicadores de gestión de la fuente: Cobertura, Calidad y Oportunidad (CCO).
-        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-11.svg" style="max-width: 131px" data-aos="fade-left")
+        img.mx-auto.order-1.order-md-2.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-11.svg" style="max-width: 131px" data-aos="fade-left" alt="Imagen decorativa")
       .d-flex.flex-wrap.align-items-center.col-lg-9.mx-auto
-        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-12.svg" style="max-width: 131px" data-aos="fade-right")
+        img.mx-auto.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/pa-12.svg" style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
         p.mb-0.col-md.ps-md-4(data-aos="fade-left") Línea de base.
 
     p.mb-5 Para ampliar la información acerca del uso, ventajas y desventajas de los sistemas o mecanismos de recolección de información, es importante consultar la “Guía metodológica nacional para la caracterización de fuentes de información para la salud en Colombia”, de las páginas 13 a la 21. En cuanto a la caracterización de las fuentes de información, consultar las páginas de la 25 a la 37.

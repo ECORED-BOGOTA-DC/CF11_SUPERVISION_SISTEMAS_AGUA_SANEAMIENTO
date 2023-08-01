@@ -14,28 +14,28 @@
         SlyderA.slyder-a-edit(tipo="b")
           .row.align-items-center.col-xl-10.mx-auto(style="margin-bottom: -3rem")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-1.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-1.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-2.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-2.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-3.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-3.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-4.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-4.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-5.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-5.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-6.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-6.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-7.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-7.svg' alt="Imagen decorativa")
           .row.align-items-center.col-xl-10.mx-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema4/img-8.svg')
+              img.mx-auto(src='@/assets/curso/temas/tema4/img-8.svg' alt="Imagen decorativa")
     p.mb-5 Uno de los documentos más importantes es el de inspección y vigilancia sanitaria, que brinda el Ministerio de Salud y Protección Social, de la página 11 a la 39, el cual se puede consultar a continuación:
 
     .tarjeta.color-acento-botones.p-3

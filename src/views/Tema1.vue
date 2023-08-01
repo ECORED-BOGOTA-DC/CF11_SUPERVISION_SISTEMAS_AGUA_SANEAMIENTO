@@ -19,7 +19,7 @@
           .row.justify-content-center.mb-4
             .col-6
               figure
-                img.mx-auto(src='@/assets/curso/temas/tema1/img-1.svg' style="max-width: 182px" data-aos="fade-left")
+                img.mx-auto(src='@/assets/curso/temas/tema1/img-1.svg' style="max-width: 182px" data-aos="fade-left" alt="Imagen decorativa")
           h2.text-center Signos
           p.mb-0 Cualquier evidencia objetiva de enfermedad. Por ejemplo: temperatura elevada, hinchazón, ruidos respiratorios anormales o vomitar sangre (Brooker, C., 2010). Estas manifestaciones se pueden percibir a través de un examen físico que se le realiza al paciente.
 
@@ -28,7 +28,7 @@
           .row.justify-content-center.mb-4
             .col-6
               figure
-                img.mx-auto(src='@/assets/curso/temas/tema1/img-2.svg' style="max-width: 182px" data-aos="fade-left")
+                img.mx-auto(src='@/assets/curso/temas/tema1/img-2.svg' style="max-width: 182px" data-aos="fade-left" alt="Imagen decorativa")
           h2.text-center Síntomas
           p.mb-0 Fenómenos o manifestaciones subjetivas de la enfermedad (Brooker, 2010). Es decir, todas aquellas manifestaciones que solo puede percibir el paciente, como lo son: mareo, fatiga, dolor.
 </template>
