@@ -47,8 +47,8 @@
     
     .col-lg-10.col-xl-8.mx-auto
       .titulo-sexto.color-secundario
-        h5 Figura 1
-        span.mb-0 <em>Modelo socioeconómico de salud</em>
+        h5 Figura 1.
+        span.mb-0 Modelo socioeconómico de salud
       figure.mb-5(data-aos="fade-left")
         img.mb-3(src='@/assets/curso/temas/tema2/img-6.svg' alt='Muestra condiciones socioeconómicas, culturales y ambientales, redes sociales y comunitarias y estilos de vida del individuo, transversalizadas por  agricultura, educación, ambiente laboral, condiciones de vida y trabajo, desempleo, agua y saneamiento, servicios de atención de salud y vivienda.')
         figcaption <b>Nota.</b> Adaptado de López, S. (2013). Introducción a la salud pública.
