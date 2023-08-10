@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Recolección de datos
+      h1 Recolección de información en salud
 
     .mb-5.container-100(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       p.mb-0 Dentro del contexto de los sistemas de información en salud, podría definirse una fuente de información como el conjunto de instrumentos que buscan producir información fiable, de calidad y oportuna a partir de datos sanitarios y no sanitarios (Ministerio de Salud y Protección Social, 2014, p. 12).
         br
         br
-        |Según la Ministerio de Salud (2014), en su documento “Guía Metodológica Nacional para la caracterización de fuentes de información para la salud en Colombia, en los sistemas de información sanitarios”, se identifican dos grupos para las fuentes de información:
+        |Según el Ministerio de Salud (2014), en su documento “Guía Metodológica Nacional para la caracterización de fuentes de información para la salud en Colombia, en los sistemas de información sanitarios”, se identifican dos grupos para las fuentes de información:
     
     .d-flex.flex-wrap.align-items-center.p-4.mb-5(style="background-color: #F0FBFF")
       img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema5/img-1.svg" style="max-width: 88px")
@@ -84,7 +84,7 @@
               h3.mb-1 Guia definitiva
               p.mb-0 Para ampliar la información puede consultar el siguiente documento
             .col-sm-auto
-              a.boton.color-primario(:href="obtenerLink('downloads/19062014.pdf')" target="_blank")
+              a.boton.color-primario(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/GCFI/guia%20definitiva%2019062014.pdf" target="_blank")
                 span.pe-3 Descargar 
                 i.fas.fa-file-download
 

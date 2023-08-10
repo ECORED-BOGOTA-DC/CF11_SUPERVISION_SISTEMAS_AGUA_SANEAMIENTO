@@ -48,7 +48,7 @@
               h3.mb-1 Llamado modelo operativo
               p.mb-0 Para ampliar la información puede consultar el siguiente documento
             .col-sm-auto
-              a.boton.color-primario(:href="obtenerLink('downloads/modelo-operativo-ivc-t.pdf')" target="_blank")
+              a.boton.color-primario(href="https://www.minsalud.gov.co/RID/modelo-operativo-ivc-t.pdf" target="_blank")
                 span.pe-3 Descargar 
                 i.fas.fa-file-download
 </template>

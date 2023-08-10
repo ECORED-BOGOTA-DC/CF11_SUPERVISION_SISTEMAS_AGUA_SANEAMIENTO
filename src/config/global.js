@@ -273,7 +273,7 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social. (2014). <em>Guía metodológica nacional para la caracterización de fuentes de información para la salud en Colombia.</em>',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/GCFI/guia%20definitiva%2019062014.pdff',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/GCFI/guia%20definitiva%2019062014.pdf',
     },
     {
       referencia:
@@ -360,7 +360,7 @@ export default {
         },
         {
           nombre: 'Jesús Ricardo Arias Munévar',
-          cargo: 'Instructora ambiental',
+          cargo: 'Instructor ambiental',
           centro: 'Centro de Gestión Industrial',
         },
         {
@@ -386,7 +386,7 @@ export default {
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Correctora de estilo',
+          cargo: 'Instructor y Corrector',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],

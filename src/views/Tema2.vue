@@ -128,7 +128,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-8.col-xl-6.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-11.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/temas/tema2/img-11.svg' alt="Muestra las funciones relevantes que tienen que cumplir el Instituto Nacional de Salud (INS) y el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA), en el sistema de vigilancia en salud pública.")
 
     .titulo-edit.mb-5
       h3 Direcciones departamentales y distritales de salud
@@ -146,7 +146,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-8.col-xl-6.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-13.svg' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img-13.svg' alt='Resalta 4 funciones básicas de la Ley 715 (2001), en las que las direcciones municipales se enfocan')
 
     .titulo-edit.mb-5
       h3 Entidades administradoras de planes de beneficios de salud
@@ -155,7 +155,7 @@
 
     .container-100.py-5.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       figure.mb-5.col-lg-10.col-xl-8.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img-14.svg' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img-14.svg' alt='Muestra algunas de las funciones que deben cumplir las entidades promotoras de salud y sus entidades adaptadas')
 
     .titulo-edit.mb-5
       h3 Unidades primarias generadoras de datos
@@ -169,35 +169,35 @@
             img(src='@/assets/curso/temas/tema2/img-15.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
           .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
             .p-4
-              p.mb-0 Implementar todas las directrices del Ministerio de Salud
+              p.mb-0 Implementar todas las directrices del Ministerio de Salud.
       .col-lg-4.d-flex
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img.d-flex.align-items-center
             img(src='@/assets/curso/temas/tema2/img-16.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
           .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
             .p-4
-              p.mb-0 Informar y actualizar bases de datos de vigilancia
+              p.mb-0 Informar y actualizar bases de datos de vigilancia.
       .col-lg-4.d-flex
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img.d-flex.align-items-center
             img(src='@/assets/curso/temas/tema2/img-17.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
           .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
             .p-4
-              p.mb-0 Analizar y utilizar la información de vigilancia para la toma de decisiones
+              p.mb-0 Analizar y utilizar la información de vigilancia para la toma de decisiones.
       .col-lg-4.d-flex
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img.d-flex.align-items-center
             img(src='@/assets/curso/temas/tema2/img-18.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
           .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
             .p-4
-              p.mb-0 Notificar cualquier evento sujeto de vigilancia
+              p.mb-0 Notificar cualquier evento sujeto de vigilancia.
       .col-lg-4.d-flex
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img.d-flex.align-items-center
             img(src='@/assets/curso/temas/tema2/img-19.svg' alt='AvatarTop' style="filter: drop-shadow(0 3px 4px 2px #00000010)")
           .tarjeta.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 7px 4px 2px #00000010")
             .p-4
-              p.mb-0 Participar en las estrategias de vigilancia especiales planteadas por la autoridad sanitaria, entre otras
+              p.mb-0 Participar en las estrategias de vigilancia especiales planteadas por la autoridad sanitaria, entre otras.
 
     .titulo-edit.mb-5
       h3 Otras entidades
@@ -217,7 +217,7 @@
               h3.mb-1 Decreto 3518 de 2006
               p.mb-0 Para ampliar la información puede consultar el siguiente documento
             .col-sm-auto
-              a.boton.color-primario(:href="obtenerLink('downloads/Decreto-3518-de-2006.pdf')" target="_blank")
+              a.boton.color-primario(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Decreto-3518-de-2006.pdf" target="_blank")
                 span.pe-3 Descargar 
                 i.fas.fa-file-download
     Separador
@@ -282,9 +282,13 @@
 
 <script>
 import TabsA from '@/components/TabsA.vue'
+import LineaTiempoC from '@/components/LineaTiempoC.vue'
 export default {
   name: 'Tema2',
-  components: { TabsA },
+  components: {
+    TabsA,
+    LineaTiempoC,
+  },
   data: () => ({}),
   mounted() {
     this.$nextTick(() => {

@@ -30,7 +30,7 @@
               figure
                 img(src="@/assets/curso/temas/tema3/img-9.svg" alt="alt").img100
             .col
-              p Esta política a nivel distrital se establece por medio del Decreto 56 (2011), el cual define la estructura organizacional para el desarrollo de los objetivos asociados a la salud ambiental para el Distrito Capital, con el objetivo de “incidir positivamente sobre las condiciones sanitarias y socio-ambientales que determinan la calidad de vida y la salud de los habitantes del Distrito Capital” (Alcaldía Mayor de Bogotá, 2011, p.7)
+              p Esta política a nivel distrital se establece por medio del Decreto 56 (2011), el cual define la estructura organizacional para el desarrollo de los objetivos asociados a la salud ambiental para el Distrito Capital, con el objetivo de “incidir positivamente sobre las condiciones sanitarias y socio-ambientales que determinan la calidad de vida y la salud de los habitantes del Distrito Capital” (Alcaldía Mayor de Bogotá, 2011, p.7).
 
     p.mb-5 Es importante aclarar que las políticas de salud ambiental son creadas dependiendo del territorio, en este caso se aborda la de Bogotá, por ser una de las ciudades con mayor extensión y por presentar en un mismo territorio, diversidad de características, tanto rurales como urbanas. La política actual, fue la creada para los años 2011 al 2023, en la cual se identifican los actores sociales y se establecen acciones para diferentes aspectos ambientales como: 
 
@@ -117,7 +117,7 @@
                   h3.mb-1 Enfermedades vehiculizadas por agua
                   p.mb-0 Para ampliar la información sobre las enfermedades transmitidas por agua, consultar el siguiente documento
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('downloads/Enfermedades_Vehiculizadas_por_Agua.pdf')" target="_blank")
+                  a.boton.color-primario(href="https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2015%20Enfermedades%20Vehiculizadas%20por%20Agua%202014.pdf " target="_blank")
                     span.pe-3 Descargar 
                     i.fas.fa-file-download
 
@@ -143,7 +143,7 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-6.png')})`}" style="background-position: bottom")
             .tarjeta-slide__contenido.p-4.p-md-5
               h3.mx-auto.text-center.text-white.text-center(style="max-width: 396px; font-size: 26px") Infecciones alimentarias
-              p.mx-auto.text-center.text-white(style="max-width: 396px") Son las eta producida por la ingestión de alimentos o agua, contaminados con agentes infecciosos específicos, tales como bacterias, virus, hongos, parásitos, que en la luz intestinal pueden multiplicarse o lisarse, y producir toxinas o invadir la pared intestinal y desde allí alcanzar otros aparatos o sistemas (organización panamericana de la salud, 2011)
+              p.mx-auto.text-center.text-white(style="max-width: 396px") Son las ETA producida por la ingestión de alimentos o agua, contaminados con agentes infecciosos específicos, tales como bacterias, virus, hongos, parásitos, que en la luz intestinal pueden multiplicarse o lisarse, y producir toxinas o invadir la pared intestinal y desde allí alcanzar otros aparatos o sistemas (organización panamericana de la salud, 2011).
 
       .mx-auto.col-lg-6.mb-4.mb-xl-0(data-aos="fade-left" style="max-width: 610px")
         .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false" style="background-color: #EE7900")
@@ -151,7 +151,7 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-7.png')})`}" style="background-position: bottom")
             .tarjeta-slide__contenido.px-4.py-5.p-md-5
               h3.mx-auto.text-center.text-white.text-center(style="max-width: 396px; font-size: 26px") Intoxicaciones alimentarias
-              p.mx-auto.text-center.text-white(style="max-width: 396px") Son las ETA producida por la ingestión de toxinas producida por microorganismos o sustancias químicas o radioactivas, o formadas en tejidos de plantas y animales, que se incorporan a ellos de manera accidental, incidental o intencional, en cualquier momento, desde su producción hasta su consumo (Organización Panamericana de la Salud, 2011)
+              p.mx-auto.text-center.text-white(style="max-width: 396px") Son las ETA producida por la ingestión de toxinas producida por microorganismos o sustancias químicas o radioactivas, o formadas en tejidos de plantas y animales, que se incorporan a ellos de manera accidental, incidental o intencional, en cualquier momento, desde su producción hasta su consumo (Organización Panamericana de la Salud, 2011).
 
     .titulo-edit.mb-5
       h3 ¿Cómo se hace seguimiento a una ETA en Colombia?
@@ -219,7 +219,7 @@
               h3.mb-1 Lineamiento táctico operativo
               p.mb-0 Para ampliar la información sobre lineamiento táctico operativo, consultar el siguiente documento
             .col-sm-auto
-              a.boton.color-primario(:href="obtenerLink('downloads/Lineamiento-Tatico-operativo-egi-Etv.pdf')" target="_blank")
+              a.boton.color-primario(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/PAI/Lineamiento-Tatico-operativo-egi-Etv.pdf " target="_blank")
                 span.pe-3 Descargar 
                 i.fas.fa-file-download
     
@@ -246,7 +246,7 @@
       .py-3.py-md-4(titulo="Artrópodo")
         .row.col-lg-11.mx-auto.py-5
           .col-md-6.mb-4.mb-md-0
-            p Animal invertebrado, con exoesqueleto y extremidades articuladas; comprende las familias de arácnidos, crustáceos, insectos y miriápodos. (secretaría distrital de salud de bogotá, 2011, p. 1)
+            p Animal invertebrado, con exoesqueleto y extremidades articuladas; comprende las familias de arácnidos, crustáceos, insectos y miriápodos. (Secretaría Distrital de Salud de Bogotá, 2011, p. 1).
 
 
           .col-md-6
@@ -256,7 +256,7 @@
       .py-3.py-md-4(titulo="Roedor plaga")
         .row.col-lg-11.mx-auto.py-5
           .col-md-6.mb-4.mb-md-0
-            p Animal mamífero, especies múridas y ratón doméstico, que han constituido, a través de la historia, múltiples problemas al género humano en varios ámbitos de la vida: social, económico, ecológico y cultural, provocando permanentes e imprevisibles riesgos para la salud humana y animal (Secretaría Distrital de Salud de Bogotá, 2011, p. 1)
+            p Animal mamífero, especies múridas y ratón doméstico, que han constituido, a través de la historia, múltiples problemas al género humano en varios ámbitos de la vida: social, económico, ecológico y cultural, provocando permanentes e imprevisibles riesgos para la salud humana y animal (Secretaría Distrital de Salud de Bogotá, 2011, p. 1).
 
 
           .col-md-6
@@ -306,7 +306,7 @@
           p Como un componente fundamental para lograr las metas que se han trazado en el control vectorial y disminuir la presencia de patologías relacionadas con los mismos, se encuentran las actividades de promoción de la salud y la divulgación de conocimientos técnicos y científicos sobre las medidas de prevención y control de artrópodos y roedores.
         .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Planes de mejoramiento")
           p Cuando no se cumpla con las exigencias establecidas en la normatividad y esta situación no incida directamente sobre la salud pública (por ejemplo, estructura física, tecnológica operativa, ausencia de planes de control de vectores, etcétera), se concertará con el interesado un plan de mejoramiento. En caso de pertenecer a un particular se concertará con este, en espacios públicos, con los diferentes sectores públicos, privados y comunitarios competentes y responsables. A este plan se le debe hacer seguimiento según las fases y los tiempos establecidos en el mismo.
-        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de un módulo")
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Aplicación de medidas <br>sanitarias")
           p Si como resultado de la vigilancia y control sanitario se comprueba que el establecimiento no cumple con las condiciones sanitarias y las buenas prácticas de manejo establecidas en la normatividad, generando un riesgo para la salud pública, se aplicarán las medidas sanitarias de seguridad, procedimientos y sanciones establecidas en la Ley 9ª de 1979 y en el Capítulo VII del Decreto 2257 de 1986, las cuales deben quedar consignadas en el acta.
         .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Coordinación intersectorial <br> y participación comunitaria")
           p La variedad de factores económicos, sociales, políticos y culturales que determinan la transmisión de enfermedades por vectores y el impacto económico producido por estas, hace necesaria la intervención conjunta de otros sectores, públicos y privados, como alcaldías locales, Secretarías de Ambiente, Unidad Especial de Servicios Públicos (UESP), empresas de servicio de aseo, juntas de acción comunal, organizaciones no gubernamentales y el sector privado.
